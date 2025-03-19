@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
-<h3 align="center">A Senior Full Stack Software Engineer</h3>
+<h3 align="center">A Senior Software Engineer</h3>
 <h3 href="https://linkedin.com/in/abdullahkhi" align="center">https://abdullahkiet.github.io/</h3>
 
 
