@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Javascript, React, React Native, Swift and Kotlin**
 
-- - 📫 How to reach me **abdullah.kiet@gmail.com**
+- 📫 How to reach me **abdullah.kiet@gmail.com**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1MBOZQxMtSWmIsGoDnqvDjnqRs4ON2dik/view](https://drive.google.com/file/d/1MBOZQxMtSWmIsGoDnqvDjnqRs4ON2dik/view)
 
