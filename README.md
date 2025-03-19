@@ -3,15 +3,16 @@
 <h3 href="https://linkedin.com/in/abdullahkhi" align="center">https://abdullahkiet.github.io/</h3>
 
 
-- 🌱 I’m currently learning **Machine Learning and Data Science**
+- 💬 Ask me about **Javascript, React, React Native, Swift and Kotlin**
+
+- - 📫 How to reach me **abdullah.kiet@gmail.com**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1MBOZQxMtSWmIsGoDnqvDjnqRs4ON2dik/view](https://drive.google.com/file/d/1MBOZQxMtSWmIsGoDnqvDjnqRs4ON2dik/view)
 
-- 💬 Ask me about **Javascript, React, React Native, Swift and Kotlin**
-
-- 📫 How to reach me **abdullah.kiet@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1W9VPg0nNdsZu87VJsTX1bax2uPiX-H93/view](https://drive.google.com/file/d/1W9VPg0nNdsZu87VJsTX1bax2uPiX-H93/view)
+
+- 🌱 I’m currently learning **Machine Learning and Data Science**
+
 
 - ⚡ Fun fact **I think I am Funny**
 
