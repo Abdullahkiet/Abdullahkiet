@@ -7,9 +7,9 @@
 
 - 📫 How to reach me **abdullah.kiet@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1MBOZQxMtSWmIsGoDnqvDjnqRs4ON2dik/view](https://drive.google.com/file/d/1MBOZQxMtSWmIsGoDnqvDjnqRs4ON2dik/view)
+- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1MBOZQxMtSWmIsGoDnqvDjnqRs4ON2dik/view](https://drive.google.com/file/d/1BUw2z04YmCVoendUvmk4LNv43iMPRUoX/view)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1W9VPg0nNdsZu87VJsTX1bax2uPiX-H93/view](https://drive.google.com/file/d/1W9VPg0nNdsZu87VJsTX1bax2uPiX-H93/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1W9VPg0nNdsZu87VJsTX1bax2uPiX-H93/view](https://drive.google.com/file/d/1B95JeFLg7hFBXT_ABNcRbdNpTY0xQNyT/view)
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 
